@@ -7,6 +7,7 @@ I know the ins and outs of the language like the back of my hand.
 I'm an adept at developing complex software systems using Go. I got a deep understanding of the language's syntax, as well as its performance and scalability characteristics. I'm also knowledgeable in software engineering principles and practices, such as design patterns, algorithms, testing methodologies etc. With that being said, I' able to deliver high-quality and maintainable software solutions that meet business requirements.
 
 I'm also an enthusiast, who strives to elaborate and share useful info for the community thru my Medium blog:
+- [Benchmarking Gob vs JSON, XML & YAML](https://rsheremeta.medium.com/benchmarking-gob-vs-json-xml-yaml-48b090b097e8)
 - [The testing feature you’ve been missing in pure Go / Golang](https://rsheremeta.medium.com/the-testing-feature-youve-been-missing-in-pure-go-golang-a6d0ce138251)
 - [Integrate your JUnit tests with TestRail](https://rsheremeta.medium.com/integrate-your-junit-tests-with-testrail-bac4bfe31111)
 - [Integrate your TestNG tests with TestRail](https://rsheremeta.medium.com/integrate-your-testng-tests-with-testrail-b7c72726a13c)
