@@ -20,7 +20,7 @@ I'm also an enthusiast, who strives to elaborate and share useful info for the c
 ### Tools and Languages:
 
 <a href="https://go.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/go/go-original.svg" alt="golang" title="golang" width="40" height="40"/> </a> 
-<a href="https://grpc.io/" target="_blank"> <img src="https://cncf-branding.netlify.app/img/projects/grpc/horizontal/color/grpc-horizontal-color.png" alt="grpc" title="grpc" width="40" height="40"/> </a> 
+<a href="https://grpc.io/" target="_blank"> <img src="https://seeklogo.com/images/G/grpc-logo-561C1563B1-seeklogo.com.png" alt="grpc" title="grpc" width="40" height="40"/> </a> 
 <a href="https://protobuf.dev/" target="_blank"> <img src="https://www.pikpng.com/pngl/m/501-5019544_protocol-buffers-google-developers-logo-svg-clipart.png" alt="protobuf" title="protobuf" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" alt="postgres" title="postgres" width="40" height="40"/> </a> 
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" alt="mongo" title="mongo" width="40" height="40"/> </a>
