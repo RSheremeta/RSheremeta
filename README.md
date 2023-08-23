@@ -58,5 +58,4 @@ Reach out to me at:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RSheremeta&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Github profile visits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRSheremeta&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Github_profile_hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Roman Sheremeta profile views](https://u8views.com/api/v1/github/profiles/35638074/views/day-week-month-total-count.svg)](https://u8views.com/github/RSheremeta)
